@@ -168,4 +168,4 @@ Dashboard berisi ringkasan gerak hari ini, air minum, tidur, dan mood. Pengguna 
 - [x] Hitung streak dari hari yang memiliki aktivitas selesai.
 - [x] Tambahkan api milestone 3, 7, 50, dan 100+ dengan warna berbeda.
 - [x] Uji rencana tanggal masa depan, checklist, streak, responsivitas, dan build.
-- [ ] Sinkronkan source ke repositori GitHub `twistersal/green_project`.
+- [x] Sinkronkan source ke repositori GitHub `twistersal/green_project`.
