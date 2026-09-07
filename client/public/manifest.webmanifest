@@ -1,0 +1,13 @@
+{
+  "name": "Green Project",
+  "short_name": "Green Project",
+  "description": "Planner dan tracker kesehatan, kebugaran, serta olahraga harian.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07110d",
+  "theme_color": "#0c2119",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "https://ruangtumbuh-7wc6sasx.manus.space/manus-storage/avatar-icon_f141168e.jpg", "sizes": "474x474", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
